@@ -2,8 +2,10 @@ title: Libeccio Labs
 email:
 description: GitHub Pages website for Libeccio Labs.
 github_username: LibeccioLabs
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: air
 search: true
+logo: "/assets/images/icon.jpg"
+teaser: "/assets/images/libeccio.jpg"
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
